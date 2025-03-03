@@ -1,0 +1,14 @@
+[
+  {
+    "key": 1,
+    "value": "Open"
+  },
+  {
+    "key": 2,
+    "value": "In progress"
+  },
+  {
+    "key": 3,
+    "value": "Closed"
+  }
+]

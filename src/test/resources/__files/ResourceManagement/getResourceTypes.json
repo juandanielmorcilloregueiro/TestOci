@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1,
+    "value": "ANI"
+  },
+  {
+    "key": 2,
+    "value": "ICC"
+  },
+  {
+    "key": 3,
+    "value": "IMSI"
+  },
+  {
+    "key": 4,
+    "value": "IMEI"
+  },
+  {
+    "key": 5,
+    "value": "Voucher"
+  }
+]

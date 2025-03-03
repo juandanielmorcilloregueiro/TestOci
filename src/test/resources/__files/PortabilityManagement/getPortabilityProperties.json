@@ -1,0 +1,12 @@
+[
+  {
+    "propertyId": 1,
+    "propertyValue": "value",
+    "propertyName": "name"
+  },
+  {
+    "propertyId": 2,
+    "propertyValue": "value2",
+    "propertyName": "name2"
+  }
+]

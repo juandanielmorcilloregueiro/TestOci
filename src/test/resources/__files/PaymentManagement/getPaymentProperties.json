@@ -1,0 +1,14 @@
+[
+  {
+    "paramName": "Credit card last 4 digits",
+    "value": "54654****5455"
+  },
+  {
+    "paramName": "Purchase operation number",
+    "value": "451215"
+  },
+  {
+    "paramName": "Error code",
+    "value": "0000"
+  }
+]

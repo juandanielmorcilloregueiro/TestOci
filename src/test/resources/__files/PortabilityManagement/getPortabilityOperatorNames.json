@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "ANDINATEL",
+    "brandId": 1,
+    "creationDate": "2015-04-23",
+    "lastUpdate": "2015-04-23"
+  },
+  {
+    "id": 2,
+    "name": "ECUTEL",
+    "brandId": 1,
+    "creationDate": "2015-04-23",
+    "lastUpdate": "2015-04-23"
+  },
+  {
+    "id": 3,
+    "name": "ETAPA",
+    "brandId": 1,
+    "creationDate": "2015-04-23",
+    "lastUpdate": "2015-04-23"
+  },
+  {
+    "id": 4,
+    "name": "ETAPA TELECOM",
+    "brandId": 1,
+    "creationDate": "2015-04-23",
+    "lastUpdate": "2015-04-23"
+  },
+  {
+    "id": 5,
+    "name": "GLOBALNET",
+    "brandId": 1,
+    "creationDate": "2015-04-23",
+    "lastUpdate": "2015-04-23"
+  }
+]

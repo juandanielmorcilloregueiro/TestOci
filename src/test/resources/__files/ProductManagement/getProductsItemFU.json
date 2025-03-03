@@ -1,0 +1,167 @@
+{
+  "items": [
+    {
+      "id": 16249,
+      "productFollowUpId": 8636,
+      "accountCounter": null,
+      "customerService": {
+        "id": 30140,
+        "nobillCS": "C.TBR.03.4X332.SEMANAL1",
+        "typeId": 14,
+        "typeName": "FAKE VALUE",
+        "price": 0.0,
+        "creationDate": "2020-07-07 06:45:35",
+        "lastUpdate": "2020-07-07 06:45:35"
+      },
+      "price": 0.0,
+      "relation": 1,
+      "accountCounterValue": null,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startDate": null,
+      "endDate": "2020-12-24 01:30:50",
+      "expirationDate": "2020-11-11 12:29:37",
+      "productItemId": 30090
+    },
+    {
+      "id": 16250,
+      "productFollowUpId": 8636,
+      "accountCounter": {
+        "id": 30071,
+        "accountCounter": "AC.TBR.03.4X332.SEMANAL1.DAT",
+        "typeId": 3,
+        "typeName": "FAKE VALUE",
+        "unitsId": 3,
+        "unitsName": "FAKE VALUE",
+        "initialValue": 1610612736,
+        "endValue": null,
+        "accountCounterName": "FAKE NAME",
+        "creationDate": "2020-07-07 04:08:45",
+        "lastUpdate": "2020-08-14 09:51:40"
+      },
+      "customerService": {
+        "id": 30141,
+        "nobillCS": "C.TBR.03.4X332.SEMANAL1.dat",
+        "typeId": 2,
+        "typeName": "FAKE VALUE",
+        "price": 0.0,
+        "creationDate": "2020-07-07 06:45:36",
+        "lastUpdate": "2020-07-07 06:45:36"
+      },
+      "price": 0.0,
+      "relation": 1,
+      "accountCounterValue": 1610612736,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startDate": null,
+      "endDate": "2020-12-24 01:30:50",
+      "expirationDate": "2020-11-11 12:29:37",
+      "productItemId": 30138
+    },
+    {
+      "id": 16251,
+      "productFollowUpId": 8636,
+      "accountCounter": {
+        "id": 30072,
+        "accountCounter": "AC.TBR.03.4X332.SEMANAL1.SMSONNET",
+        "typeId": 2,
+        "typeName": "FAKE VALUE",
+        "unitsId": 2,
+        "unitsName": "FAKE VALUE",
+        "initialValue": 5000,
+        "endValue": null,
+        "accountCounterName": "FAKE NAME",
+        "creationDate": "2020-07-07 04:08:46",
+        "lastUpdate": "2020-08-14 09:30:04"
+      },
+      "customerService": {
+        "id": 30142,
+        "nobillCS": "C.TBR.03.4X332.SEMANAL1.smsonnet",
+        "typeId": 2,
+        "typeName": "FAKE VALUE",
+        "price": 0.0,
+        "creationDate": "2020-07-07 06:45:37",
+        "lastUpdate": "2020-07-07 06:45:37"
+      },
+      "price": 0.0,
+      "relation": 1,
+      "accountCounterValue": 5000,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startDate": null,
+      "endDate": "2020-12-24 01:30:50",
+      "expirationDate": "2020-11-11 12:29:37",
+      "productItemId": 30139
+    },
+    {
+      "id": 16252,
+      "productFollowUpId": 8636,
+      "accountCounter": {
+        "id": 30073,
+        "accountCounter": "AC.TBR.03.4X332.SEMANAL1.VOICEOFFNET",
+        "typeId": 4,
+        "typeName": "FAKE VALUE",
+        "unitsId": 1,
+        "unitsName": "FAKE VALUE",
+        "initialValue": 1200000,
+        "endValue": null,
+        "accountCounterName": "FAKE NAME",
+        "creationDate": "2020-07-07 04:08:47",
+        "lastUpdate": "2021-10-27 12:58:05"
+      },
+      "customerService": {
+        "id": 30143,
+        "nobillCS": "C.TBR.03.4X332.SEMANAL1.voiceoffnet",
+        "typeId": 2,
+        "typeName": "FAKE VALUE",
+        "price": 0.0,
+        "creationDate": "2020-07-07 06:45:38",
+        "lastUpdate": "2020-07-07 06:45:38"
+      },
+      "price": 0.0,
+      "relation": 1,
+      "accountCounterValue": 1200000,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startDate": null,
+      "endDate": "2020-12-24 01:30:50",
+      "expirationDate": "2020-11-11 12:29:37",
+      "productItemId": 30140
+    },
+    {
+      "id": 16253,
+      "productFollowUpId": 8636,
+      "accountCounter": {
+        "id": 30074,
+        "accountCounter": "AC.TBR.03.4X332.SEMANAL1.VOICEONNET",
+        "typeId": 4,
+        "typeName": "FAKE VALUE",
+        "unitsId": 1,
+        "unitsName": "FAKE VALUE",
+        "initialValue": 300000000,
+        "endValue": null,
+        "accountCounterName": "FAKE NAME",
+        "creationDate": "2020-07-07 04:08:48",
+        "lastUpdate": "2021-10-27 12:57:58"
+      },
+      "customerService": {
+        "id": 30144,
+        "nobillCS": "C.TBR.03.4X332.SEMANAL1.voiceonnet",
+        "typeId": 2,
+        "typeName": "FAKE VALUE",
+        "price": 0.0,
+        "creationDate": "2020-07-07 06:45:39",
+        "lastUpdate": "2020-07-07 06:45:39"
+      },
+      "price": 0.0,
+      "relation": 1,
+      "accountCounterValue": 300000000,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startDate": null,
+      "endDate": "2020-12-24 01:30:50",
+      "expirationDate": "2020-11-11 12:29:37",
+      "productItemId": 30141
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "items": [
+    {
+      "propertyId": 98,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 99,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 100,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 28,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 29,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 30,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 31,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 32,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 33,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 34,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 35,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 48,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 49,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 50,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 1,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 2,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 3,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 4,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 5,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 6,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 7,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 8,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 9,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 10,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 11,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 12,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 13,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 14,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 15,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 16,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 17,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 18,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 19,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 20,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 21,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 22,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 23,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 24,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 25,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 55,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 56,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 26,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 5,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 27,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 5,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 44,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 45,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 46,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 47,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 52,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 53,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 36,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 37,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 38,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 39,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 40,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 41,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 42,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 43,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 51,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 54,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 57,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 58,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 59,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 60,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 61,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 62,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 63,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 64,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 65,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 2,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 66,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 67,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 68,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 69,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 70,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 71,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 72,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 73,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 74,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 75,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 76,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 77,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 78,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 79,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 87,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 80,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 81,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 82,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 83,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 84,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 85,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 86,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 3,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 90,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 91,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 92,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 93,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 94,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 95,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 96,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 4,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 97,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 101,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 9,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 102,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 103,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 11,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 104,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 11,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 105,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 11,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 106,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 11,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 107,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 11,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 108,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 11,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 109,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 11,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 110,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 11,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 111,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 1,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 112,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 113,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 114,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 115,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    },
+    {
+      "propertyId": 116,
+      "propertyName": "FAKE PROPERTY NAME",
+      "propertyTypeId": 10,
+      "propertyTypeName": "FAKE TYPE NAME"
+    }
+  ]
+}

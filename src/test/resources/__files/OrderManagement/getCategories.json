@@ -1,0 +1,14 @@
+[
+  {
+    "key": 1,
+    "value": "Entity creation"
+  },
+  {
+    "key": 2,
+    "value": "Terminate entity"
+  },
+  {
+    "key": 3,
+    "value": "Entity modify"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "productName": "bono 50 megas",
+    "price": 20,
+    "productType": 1,
+    "productTypeName": "Pack",
+    "accountType": 1,
+    "accountTypeName": "Prepaid",
+    "duration": 3,
+    "maxActive": 4,
+    "description": "Megas",
+    "incompatibleProducts": [2, 4, 5],
+    "compatibleProducts": [1, 2, 6]
+  },
+  {
+    "id": "2",
+    "productName": "bono 100 minutes",
+    "price": 400,
+    "productType": 1,
+    "productTypeName": "Pack",
+    "accountType": 1,
+    "accountTypeName": "Prepaid",
+    "duration": 3,
+    "maxActive": 4,
+    "description": "Product",
+    "incompatibleProducts": [2, 4, 5],
+    "compatibleProducts": [1, 2, 6]
+  },
+  {
+    "id": "3",
+    "productName": "bono whatsapp",
+    "price": 20,
+    "productType": 1,
+    "productTypeName": "Pack",
+    "accountType": 1,
+    "accountTypeName": "Prepaid",
+    "duration": 3,
+    "maxActive": 4,
+    "description": "Whatsapp",
+    "incompatibleProducts": [2, 4, 5],
+    "compatibleProducts": [1, 2, 6]
+  }
+]

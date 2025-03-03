@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "key": "1",
+      "value": "COORDENADOR"
+    },
+    {
+      "key": "2",
+      "value": "SEGUNDO PERFIL"
+    },
+    {
+      "key": "3",
+      "value": "PRIMEIRO PERFIL"
+    },
+    {
+      "key": "4",
+      "value": "ADMINISTRADOR"
+    },
+    {
+      "key": "21",
+      "value": "COORDENADOR DE EMPRESAS"
+    },
+    {
+      "key": "35",
+      "value": "ADMINISTRADOR DE EMPRESAS"
+    },
+    {
+      "key": "5",
+      "value": "PREVENÇÃO A FRAUDE"
+    },
+    {
+      "key": "16",
+      "value": "AÇÕES DE INCENTIVO"
+    },
+    {
+      "key": "65",
+      "value": "NFCOM"
+    }
+  ]
+}

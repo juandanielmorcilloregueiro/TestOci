@@ -1,0 +1,16 @@
+{
+  "codigo": "string",
+  "statusIccidId": "06",
+  "statusIccidName": "string",
+  "serviceCategoryIFCTypeId": "string",
+  "serviceCategoryIFCTYpeName": "string",
+  "iccidFCTProfileTypeId": "string",
+  "iccidFCTProfileTypeName": "string",
+  "networkTypeId": "string",
+  "lineNumber": "string",
+  "remoteHabilitationPlatformId": "string",
+  "remoteHabilitationPlatformName": "string",
+  "modelCard": "string",
+  "indicaPropietarioRede": true,
+  "partnerApplication": "1"
+}

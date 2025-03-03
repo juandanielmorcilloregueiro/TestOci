@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": 70538,
+      "customerId": 3681,
+      "catalogId": 40,
+      "typeId": 2,
+      "typeName": "FAKE VALUE",
+      "categoryId": 23,
+      "categoryName": "FAKE VALUE",
+      "subcategoryId": 1,
+      "subcategoryName": "FAKE VALUE",
+      "status": 1,
+      "statusName": "FAKE VALUE",
+      "startDate": "2020-10-30 05:20:12",
+      "endDate": "2020-10-30 05:20:36",
+      "lastUpdate": "2020-10-30 05:20:36"
+    },
+    {
+      "id": 70539,
+      "customerId": 3681,
+      "catalogId": 20,
+      "typeId": 1,
+      "typeName": "FAKE VALUE",
+      "categoryId": 3,
+      "categoryName": "FAKE VALUE",
+      "subcategoryId": 5,
+      "subcategoryName": "FAKE VALUE",
+      "status": 2,
+      "statusName": "FAKE VALUE",
+      "startDate": "2020-10-30 05:20:21",
+      "endDate": "2020-10-30 05:20:30",
+      "lastUpdate": "2020-10-30 05:20:30"
+    },
+    {
+      "id": 70551,
+      "customerId": 3681,
+      "catalogId": 40,
+      "typeId": 2,
+      "typeName": "FAKE VALUE",
+      "categoryId": 23,
+      "categoryName": "FAKE VALUE",
+      "subcategoryId": 1,
+      "subcategoryName": "FAKE VALUE",
+      "status": 3,
+      "statusName": "FAKE VALUE",
+      "startDate": "2020-10-30 07:06:23",
+      "endDate": "2020-10-30 07:06:51",
+      "lastUpdate": "2020-10-30 07:06:51"
+    },
+    {
+      "id": 70552,
+      "customerId": 3681,
+      "catalogId": 27,
+      "typeId": 1,
+      "typeName": "FAKE VALUE",
+      "categoryId": 3,
+      "categoryName": "FAKE VALUE",
+      "subcategoryId": 5,
+      "subcategoryName": "FAKE VALUE",
+      "status": 3,
+      "statusName": "FAKE VALUE",
+      "startDate": "2020-10-30 07:06:30",
+      "endDate": "2020-10-30 07:06:46",
+      "lastUpdate": "2020-10-30 07:06:46"
+    }
+  ]
+}

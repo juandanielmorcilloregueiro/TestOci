@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1,
+    "value": "PACK"
+  },
+  {
+    "key": 2,
+    "value": "PRODUCT"
+  },
+  {
+    "key": 3,
+    "value": "PROMOTION"
+  },
+  {
+    "key": 4,
+    "value": "PRICEPLAN"
+  },
+  {
+    "key": 5,
+    "value": "PACK PROMOTION"
+  }
+]

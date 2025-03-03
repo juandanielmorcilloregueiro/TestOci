@@ -1,0 +1,10 @@
+[
+  {
+    "code": "fraud",
+    "description": "FRAUDE"
+  },
+  {
+    "code": "error",
+    "description": "ERROR"
+  }
+]

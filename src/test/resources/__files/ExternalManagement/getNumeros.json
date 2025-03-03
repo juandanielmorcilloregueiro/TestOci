@@ -1,0 +1,29 @@
+{
+  "idNumero": "5214563589658",
+  "idClase": "string",
+  "idOperadoraAdjudicataria": "string",
+  "idOperadoraActual": "string",
+  "solicitudDePortabilidad": "string",
+  "rangoDesde": "string",
+  "rangoHasta": "string",
+  "subAlmCodigo": "string",
+  "subAlmDescripcion": "string",
+  "ddnCodigo": "string",
+  "region": "string",
+  "idGrupo": "string",
+  "hlrCodigo": "string",
+  "hlrDescripcion": "string",
+  "modalidad": "string",
+  "fechaEstadoActual": "Date",
+  "estadoCodigo": 3,
+  "estadoDescripcion": "Disponible",
+  "codigoUltimaTransaccion": "string",
+  "idPersonaCliente": {
+    "tipoDoc": "string",
+    "nroDoc": "string"
+  },
+  "idPersonaVendedor": {
+    "tipoDoc": "string",
+    "nroDoc": "string"
+  }
+}

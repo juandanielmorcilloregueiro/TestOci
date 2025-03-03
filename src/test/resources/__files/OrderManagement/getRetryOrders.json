@@ -1,0 +1,62 @@
+[
+  {
+    "id": 23,
+    "typeName": "Reclamo",
+    "categoryName": "Tarifas",
+    "subcategoryName": "Activacion Internet",
+    "msisdn": 20,
+    "customerId": 111,
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01"
+  },
+  {
+    "id": 27,
+    "typeName": "Consulta",
+    "categoryName": "Web",
+    "subcategoryName": "Uso Autogestion",
+    "msisdn": 22,
+    "customerId": 222,
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01"
+  },
+  {
+    "id": 30,
+    "typeName": "Requerimento",
+    "categoryName": "Dabito",
+    "subcategoryName": "Otros ",
+    "msisdn": 54,
+    "customerId": 333,
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01"
+  },
+  {
+    "id": 31,
+    "typeName": "Consulta",
+    "categoryName": "Ventas",
+    "subcategoryName": "Consulta USSD ",
+    "msisdn": 54,
+    "customerId": 333,
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01"
+  },
+  {
+    "id": 32,
+    "typeName": "Reclamo",
+    "categoryName": "Fraude",
+    "subcategoryName": "Consulta IVR ",
+    "msisdn": 54,
+    "customerId": 333,
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01"
+  },
+  {
+    "id": 33,
+    "typeName": "Consulta",
+    "categoryName": "Cobertura",
+    "subcategoryName": "Simcard",
+    "msisdn": 54,
+    "customerId": 333,
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01"
+  }
+]

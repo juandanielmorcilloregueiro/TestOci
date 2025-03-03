@@ -1,0 +1,406 @@
+[
+  {
+    "type": 1,
+    "typeName": "Service tool",
+    "categories": [
+      {
+        "categoryId": 1,
+        "categoryName": "Product Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 1,
+            "pageName": "Purchase product",
+            "endpoint": "/product-management/purchase-product",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 2,
+            "pageName": "Delete product",
+            "endpoint": "/product-management/delete-product",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "categoryName": "Orders Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 3,
+            "pageName": "Change ownership",
+            "endpoint": "/order-management/change-ownership",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 27,
+            "pageName": "Replace sim",
+            "endpoint": "/order-management/replace-sim",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 3,
+        "categoryName": "Portability Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 44,
+            "pageName": "Port-in",
+            "endpoint": "/portability/in",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 19,
+            "pageName": "Port-out",
+            "endpoint": "/portability/out",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 5,
+        "categoryName": "Historics",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 11,
+            "pageName": "Historic adjust",
+            "endpoint": "/adjust-management/historic-adjust",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 12,
+            "pageName": "Historic payment",
+            "endpoint": "/payment-management/historic-payment",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 13,
+            "pageName": "Historic recharge",
+            "endpoint": "/recharge-management/historic-recharge",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 14,
+            "pageName": "Historic products",
+            "endpoint": "/product-management/historic-product",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 6,
+        "categoryName": "Usage Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 44,
+            "pageName": "Usage details",
+            "endpoint": "/usage-details",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 7,
+        "categoryName": "MGM",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 47,
+            "pageName": "View recruit",
+            "endpoint": "/view-recruit",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 46,
+            "pageName": "View recruiter",
+            "endpoint": "/view-recruiter",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 45,
+            "pageName": "View rewards",
+            "endpoint": "/view-rewards",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": 2,
+    "typeName": "Admin tool",
+    "categories": [
+      {
+        "categoryId": 3,
+        "categoryName": "User Management",
+        "roles": [
+          4, 9, 14, 25, 31
+        ],
+        "pages": [
+          {
+            "pageId": 1,
+            "catalog": 4,
+            "pageName": "List user",
+            "endpoint": "/user-management/list-user",
+            "roles": [
+              4, 9, 14, 25, 31
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 4,
+        "categoryName": "Resource Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "pageId": 2,
+            "catalog": 44,
+            "pageName": "Search resources",
+            "endpoint": "/resource-management/search-resource",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 3,
+        "categoryName": "Portability Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 44,
+            "pageName": "Port-in",
+            "endpoint": "/order-management/portability/in",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 19,
+            "pageName": "Port-out",
+            "endpoint": "/order-management/portability/out",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 6,
+        "categoryName": "Product Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "pageId": 1,
+            "catalog": 4,
+            "pageName": "Resoruces by ICC",
+            "endpoint": "/product-management/products-icc",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 7,
+        "categoryName": "Orders Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 11,
+            "pageName": "Retry Mass Orders",
+            "endpoint": "/order-management/retry-mass-orders",
+            "roles": [
+              4, 9, 14, 25, 31
+            ]
+          },
+          {
+            "catalog": 12,
+            "pageName": "Portability Orders",
+            "endpoint": "/order-management/portability-orders",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 13,
+            "pageName": "Portability Orders BR",
+            "endpoint": "/order-management/portability-orders-br",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 14,
+            "pageName": "Cadastro",
+            "endpoint": "/order-management/cadastro",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 15,
+            "pageName": "Habilitação Avulsa",
+            "endpoint": "/order-management/habilitacao-avulsa",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": 3,
+    "typeName": "Customer tool",
+    "categories": [
+      {
+        "categoryId": 4,
+        "categoryName": "Customer Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 10,
+            "pageName": "Add customer",
+            "endpoint": "/customer-management/purchase-product",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 10,
+            "pageName": "Delete customer",
+            "endpoint": "/customer-management/purchase-product",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 13,
+            "pageName": "Activation",
+            "endpoint": "/order-management/activation",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          },
+          {
+            "catalog": 14,
+            "pageName": "Activation AR",
+            "endpoint": "/order-management/activation-ar",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 5,
+        "categoryName": "Historics",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 10,
+            "pageName": "Historic order",
+            "endpoint": "/order-management/historic-order",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 6,
+        "categoryName": "Orders Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 11,
+            "pageName": "Retry Orders",
+            "endpoint": "/order-management/retry-orders",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      },
+      {
+        "categoryId": 7,
+        "categoryName": "Protocol Management",
+        "roles": [
+          1, 6, 11, 22, 28
+        ],
+        "pages": [
+          {
+            "catalog": 12,
+            "pageName": "Search Protocol",
+            "endpoint": "/protocol-management/search-protocol",
+            "roles": [
+              1, 6, 11, 22, 28
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

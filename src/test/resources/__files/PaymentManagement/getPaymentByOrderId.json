@@ -1,0 +1,19 @@
+{
+  "id": 23232,
+  "systemId": 1,
+  "systemName": "CRM",
+  "type": 1,
+  "typeName": "Payment",
+  "paymentMethod": 1,
+  "paymentMethodName": "Credit card",
+  "operationId": 1,
+  "operationIdName": "Operation",
+  "status": 2,
+  "statusName": "Closed",
+  "reference": "6362233",
+  "orderId": 323,
+  "detail": "Payment",
+  "amount": 34,
+  "creationDate": "2020-05-12",
+  "lastUpdate": "2020-05-12"
+}

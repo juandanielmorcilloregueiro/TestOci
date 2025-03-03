@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "accountId": 232,
+    "nobillAccountNum": 32343,
+    "accountType": 1,
+    "accountTypeName": "Prepaid",
+    "balance": 36.1,
+    "balanceStatus": 1,
+    "balanceStatusName": "name",
+    "balanceExpirationDate": "21-05-2025",
+    "creationDate": "01-01-2020",
+    "brandId": 1,
+    "billingType": 1,
+    "imsi": {
+      "id": 51,
+      "type": 2,
+      "typeName": "IMSI",
+      "serialNum": "543151313",
+      "status": 3,
+      "statusName": "Active"
+    },
+    "icc": {
+      "id": 23,
+      "type": 1,
+      "typeName": "ICC",
+      "serialNum": "452131653131313515",
+      "status": 3,
+      "statusName": "Active"
+    },
+    "msisdn": {
+      "id": 57,
+      "type": 3,
+      "typeName": "ANI",
+      "serialNum": "594256313137",
+      "status": 3,
+      "statusName": "Active"
+    },
+    "nobillStatus": 1,
+    "nobillStatusName": "Active",
+    "subscriptionStatus": 3,
+    "subscriptionStatusName": "Active",
+    "subscriptionType": 1,
+    "subscriptionTypeName": "Prepaid",
+    "handset": "56232",
+    "handsetStatus": 3,
+    "nobillSubscriptionNum": "594256313137",
+    "previousSubscriptionStatus": 2,
+    "previousNobillStatus": 2,
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "accountId": 232,
+    "nobillAccountNum": 32343,
+    "accountType": 1,
+    "accountTypeName": "Prepaid",
+    "balance": 36.1,
+    "balanceStatus": 1,
+    "balanceStatusName": "name",
+    "balanceExpirationDate": "21-05-2025",
+    "creationDate": "01-01-2020",
+    "brandId": 1,
+    "billingType": 1,
+    "imsi": {
+      "id": 51,
+      "type": 2,
+      "typeName": "IMSI",
+      "serialNum": "543151313",
+      "status": 3,
+      "statusName": "Active"
+    },
+    "icc": {
+      "id": 23,
+      "type": 1,
+      "typeName": "ICC",
+      "serialNum": "452131653131313515",
+      "status": 3,
+      "statusName": "Active"
+    },
+    "msisdn": {
+      "id": 57,
+      "type": 3,
+      "typeName": "ANI",
+      "serialNum": "594256313137",
+      "status": 3,
+      "statusName": "Active"
+    },
+    "nobillStatus": 1,
+    "nobillStatusName": "Active",
+    "subscriptionStatus": 3,
+    "subscriptionStatusName": "Active",
+    "subscriptionType": 1,
+    "subscriptionTypeName": "Prepaid",
+    "handset": "56232",
+    "handsetStatus": 3,
+    "nobillSubscriptionNum": "594256313137",
+    "previousSubscriptionStatus": 2,
+    "previousNobillStatus": 2,
+    "deleted": true,
+    "deletedDate": "2020-01-01"
+  }
+]

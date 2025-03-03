@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "value": "Created"
+  },
+  {
+    "key": 2,
+    "value": "Available"
+  },
+  {
+    "key": 3,
+    "value": "Preactivated"
+  },
+  {
+    "key": 4,
+    "value": "Blocked"
+  },
+  {
+    "key": 5,
+    "value": "Inactive"
+  },
+  {
+    "key": 6,
+    "value": "Activated"
+  },
+  {
+    "key": 7,
+    "value": "Deleted"
+  },
+  {
+    "key": 8,
+    "value": "Terminated"
+  },
+  {
+    "key": 9,
+    "value": "Quarantine"
+  },
+  {
+    "key": 10,
+    "value": "Ported out"
+  }
+]

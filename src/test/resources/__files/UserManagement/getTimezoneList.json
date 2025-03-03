@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "key": "1",
+      "value": "Europe/Madrid"
+    },
+    {
+      "key": "2",
+      "value": "America/Buenos_Aires"
+    },
+    {
+      "key": "3",
+      "value": "America/Mexico_City"
+    },
+    {
+      "key": "4",
+      "value": "America/Santiago_City"
+    },
+    {
+      "key": "5",
+      "value": "America/Noronha"
+    },
+    {
+      "key": "6",
+      "value": "America/Belem"
+    },
+    {
+      "key": "7",
+      "value": "America/Fortaleza"
+    },
+    {
+      "key": "8",
+      "value": "America/Recife"
+    },
+    {
+      "key": "9",
+      "value": "America/Araguaina"
+    },
+    {
+      "key": "10",
+      "value": "America/Maceio"
+    },
+    {
+      "key": "11",
+      "value": "America/Bahia"
+    },
+    {
+      "key": "12",
+      "value": "America/Sao_Paulo"
+    },
+    {
+      "key": "13",
+      "value": "America/Campo_Grande"
+    },
+    {
+      "key": "14",
+      "value": "America/Cuiaba"
+    },
+    {
+      "key": "15",
+      "value": "America/Santarem"
+    },
+    {
+      "key": "16",
+      "value": "America/Porto_Velho"
+    },
+    {
+      "key": "17",
+      "value": "America/Boa_Vista"
+    },
+    {
+      "key": "18",
+      "value": "America/Manaus"
+    },
+    {
+      "key": "19",
+      "value": "America/Eirunepe"
+    },
+    {
+      "key": "20",
+      "value": "America/Rio_Branco"
+    }
+  ]
+}

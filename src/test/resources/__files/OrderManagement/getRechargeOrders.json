@@ -1,0 +1,22 @@
+[
+  {
+    "id": 23,
+    "status": 1,
+    "statusName": "Closed",
+    "paymentType": "TopUp",
+    "amount": 20,
+    "currency": "EUR",
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01"
+  },
+  {
+    "id": 25,
+    "status": 2,
+    "statusName": "Closed",
+    "paymentType": "Payment",
+    "amount": 10,
+    "currency": "EUR",
+    "startDate": "2020-02-01",
+    "endDate": "2020-02-01"
+  }
+]

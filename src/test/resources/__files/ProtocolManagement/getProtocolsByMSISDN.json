@@ -1,0 +1,24 @@
+[
+  {
+    "protocolId": "1234234",
+    "channel": 121,
+    "msisdn": "08712312312",
+    "mvno": 112312312,
+    "creationUser": "Paulo Gomes",
+    "closeUser": "Carla Freire",
+    "state": "Aberto",
+    "creationDate": "2021-11-20",
+    "lastUpdateDate": "2021-11-20"
+  },
+  {
+    "protocolId": "2684537",
+    "channel": 31231,
+    "msisdn": "01131231",
+    "mvno": 42342,
+    "creationUser": "Paulo Gomes",
+    "closeUser": "Carla Freire",
+    "state": "Fechado",
+    "creationDate": "2021-11-20",
+    "lastUpdateDate": "2021-11-20"
+  }
+]

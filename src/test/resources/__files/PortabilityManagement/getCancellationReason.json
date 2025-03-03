@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "value": "CANCELACIÓN PEDIDA POR EL CLIENTE"
+  },
+  {
+    "key": 2,
+    "value": "SUBSCRIPCIÓN SUSPENDIDA"
+  },
+  {
+    "key": 3,
+    "value": "SUBSCRIPCIÓN BORRADA"
+  },
+  {
+    "key": 4,
+    "value": "MOVISTAR POSPAGO"
+  }
+]

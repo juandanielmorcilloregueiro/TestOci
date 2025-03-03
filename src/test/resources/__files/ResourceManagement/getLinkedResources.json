@@ -1,0 +1,27 @@
+[
+  {
+    "id": 12,
+    "type": 1,
+    "typeName": "ANI",
+    "serialNum": "656565656",
+    "status": 1,
+    "statusName": "Created",
+    "linkedResourceId": 11
+  },
+  {
+    "id": 11,
+    "type": 2,
+    "typeName": "ICC",
+    "serialNum": "787545656565656",
+    "status": 1,
+    "statusName": "Created"
+  },
+  {
+    "id": 10,
+    "type": 3,
+    "typeName": "IMSI",
+    "serialNum": "4545451",
+    "status": 1,
+    "statusName": "Created"
+  }
+]

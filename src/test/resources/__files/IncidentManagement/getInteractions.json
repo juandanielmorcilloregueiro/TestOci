@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": 140,
+      "type": 7,
+      "typeName": "INTERACTION TYPE",
+      "userId": "ernesto.corral",
+      "text": "test2",
+      "attachmentId": null,
+      "incidentType": 1,
+      "incidentTypeName": "INCIDENT TYPE",
+      "creationDate": "2020-04-07 02:35:54",
+      "lastUpdate": "2020-04-07 02:35:54"
+    }
+  ]
+}

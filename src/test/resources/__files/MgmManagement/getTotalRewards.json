@@ -1,0 +1,36 @@
+[
+  {
+    "name": "recruitList",
+    "recruitList": [
+      {
+        "accumulatedReward": 11,
+        "accumulatedMonth": "January"
+      },
+      {
+        "accumulatedReward": 2312,
+        "accumulatedMonth": "March"
+      },
+      {
+        "accumulatedReward": 123,
+        "accumulatedMonth": "December"
+      }
+    ]
+  },
+  {
+    "name": "recruiterList",
+    "recruiterList": [
+      {
+        "accumulatedReward": 3131,
+        "accumulatedMonth": "April"
+      },
+      {
+        "accumulatedReward": 11235,
+        "accumulatedMonth": "November"
+      },
+      {
+        "accumulatedReward": 77,
+        "accumulatedMonth": "May"
+      }
+    ]
+  }
+]

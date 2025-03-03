@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": 2538,
+      "customerId": 2028,
+      "accountId": 1045,
+      "subscriptionId": "5585981172245",
+      "resourceId": null,
+      "orderId": 54976,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startTime": "2018-10-19 08:40:37",
+      "endTime": "2019-02-16 08:52:14",
+      "expirationDate": null,
+      "product": {
+        "id": 20099,
+        "creationDate": "2017-12-20 12:04:01",
+        "accountTypeId": 2,
+        "productName": "FAKE NAME",
+        "typeId": 2,
+        "typeName": "FAKE VALUE",
+        "subscriptionTypeId": 221,
+        "productCode": "INTERNATIONAL",
+        "duration": null,
+        "description": "FAKE DESCRIPTION",
+        "maxActive": 1,
+        "lastUpdate": "2018-02-19 05:12:40"
+      }
+    },
+    {
+      "id": 2539,
+      "customerId": 2028,
+      "accountId": 1045,
+      "subscriptionId": "5585981172245",
+      "resourceId": null,
+      "orderId": 54976,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startTime": "2018-10-19 08:40:39",
+      "endTime": "2019-02-16 08:52:14",
+      "expirationDate": null,
+      "product": {
+        "id": 20100,
+        "creationDate": "2017-12-20 12:04:01",
+        "accountTypeId": 2,
+        "productName": "FAKE NAME",
+        "typeId": 2,
+        "typeName": "FAKE VALUE",
+        "subscriptionTypeId": 221,
+        "productCode": "ROAMING",
+        "duration": null,
+        "description": "FAKE DESCRIPTION",
+        "maxActive": 1,
+        "lastUpdate": "2018-02-19 05:12:40"
+      }
+    },
+    {
+      "id": 2540,
+      "customerId": 2028,
+      "accountId": 1045,
+      "subscriptionId": "5585981172245",
+      "resourceId": null,
+      "orderId": 54976,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startTime": "2018-10-19 08:40:41",
+      "endTime": "2019-02-16 08:52:14",
+      "expirationDate": null,
+      "product": {
+        "id": 20102,
+        "creationDate": "2017-12-20 12:04:02",
+        "accountTypeId": 2,
+        "productName": "FAKE NAME",
+        "typeId": 2,
+        "typeName": "FAKE VALUE",
+        "subscriptionTypeId": 221,
+        "productCode": "CAIXAPOSTAL_ACTIVE",
+        "duration": null,
+        "description": "FAKE DESCRIPTION",
+        "maxActive": 1,
+        "lastUpdate": "2018-02-19 05:12:40"
+      }
+    },
+    {
+      "id": 2528,
+      "customerId": 2028,
+      "accountId": 1045,
+      "subscriptionId": "5585981172245",
+      "resourceId": null,
+      "orderId": null,
+      "statusId": 3,
+      "statusName": "FAKE VALUE",
+      "startTime": "2018-10-19 08:33:52",
+      "endTime": "2019-02-16 08:52:14",
+      "expirationDate": null,
+      "product": {
+        "id": 20021,
+        "creationDate": "2017-11-30 05:08:55",
+        "accountTypeId": 2,
+        "productName": "FAKE NAME",
+        "typeId": 4,
+        "typeName": "FAKE VALUE",
+        "subscriptionTypeId": 221,
+        "productCode": "BRISA PLANBASICO CE",
+        "duration": null,
+        "description": "FAKE DESCRIPTION",
+        "maxActive": 1,
+        "lastUpdate": "2018-02-19 05:12:40"
+      }
+    }
+  ]
+}

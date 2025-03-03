@@ -1,0 +1,53 @@
+[
+  {
+    "id": 21,
+    "msisdn": "554256313135",
+    "amount": 10,
+    "currency": 1,
+    "currencyName": "USD",
+    "type": 1,
+    "typeName": "Adjust",
+    "userName": "Amanda",
+    "description": "Adjustment deleted",
+    "status": 1,
+    "statusName": "Completed",
+    "creationDate": "2022-11-09",
+    "lastUpdate": "2022-11-09",
+    "orderId": 12,
+    "isMassive": "No"
+  },
+  {
+    "id": 90,
+    "msisdn": "554256313135",
+    "amount": 55,
+    "currency": 1,
+    "currencyName": "USD",
+    "type": 1,
+    "typeName": "Adjust",
+    "userName": "Joao",
+    "description": "More money",
+    "status": 1,
+    "statusName": "Completed",
+    "creationDate": "2022-10-10",
+    "lastUpdate": "2022-10-10",
+    "orderId": 12,
+    "isMassive": "No"
+  },
+  {
+    "id": 12,
+    "msisdn": "554256313135",
+    "amount": 60,
+    "currency": 1,
+    "currencyName": "USD",
+    "type": 1,
+    "typeName": "Adjust",
+    "userName": "Felix",
+    "description": "Recharge error",
+    "status": 1,
+    "statusName": "Completed",
+    "creationDate": "2022-12-01",
+    "lastUpdate": "2022-12-01",
+    "orderId": 45,
+    "isMassive": "No"
+  }
+]

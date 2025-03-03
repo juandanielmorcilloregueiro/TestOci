@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Juan",
+    "recruitMsisdn": "11234",
+    "activationDate": "01/02/2022",
+    "recruitStatus": "Active",
+    "recruiterStatus": "Active",
+    "reward": "133",
+    "dateReward": "05/02/2022",
+    "accumulatedReward": "111",
+    "monthReward": "February",
+    "invitationDate": "02/02/2022",
+    "invitationExpDate": "22/02/2022"
+  }
+]
