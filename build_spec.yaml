@@ -46,7 +46,7 @@ steps:
     timeoutInSeconds: 600
     name: "Maven version"
     command: |
-      mvn --version
+      mvn -Pnative --version
     onFailure:
       - type: Command
         command: |
