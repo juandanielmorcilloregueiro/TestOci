@@ -19,9 +19,9 @@ env:
 
 steps:
   - type: Command
-    name: "Install the latest Oracle GraalVM for JDK 17 - JDK and Native Image"
+    name: "Install the latest Oracle GraalVM for JDK 22 - JDK and Native Image"
     command: |
-      yum -y install graalvm-17-native-image
+      yum -y install graalvm-22-native-image
   - type: Command
     name: "Set the PATH here. JAVA_HOME already set in env > variables above."
     command: |
