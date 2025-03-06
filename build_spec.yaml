@@ -33,7 +33,19 @@ steps:
         timeoutInSeconds: 400
         runAs: root
 
- 
+  - type: Command
+    timeoutInSeconds: 600
+    name: "Maven version"
+    command: |
+      mvn --version
+    onFailure:
+      - type: Command
+        command: |
+          echo "Handling Failure"
+          echo "Failure successfully handled"
+        timeoutInSeconds: 40
+        runAs: root
+        
   - type: Command
     timeoutInSeconds: 600
     name: "Maven install"
