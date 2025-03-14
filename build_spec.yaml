@@ -54,6 +54,18 @@ steps:
           echo "Failure successfully handled"
         timeoutInSeconds: 40
         runAs: root
+  - type: Command
+    timeoutInSeconds: 600
+    name: "Helm version"
+    command: |
+      helm version
+    onFailure:
+      - type: Command
+        command: |
+          echo "Handling Failure"
+          echo "Failure successfully handled"
+        timeoutInSeconds: 40
+        runAs: root
         
   - type: Command
     timeoutInSeconds: 600
