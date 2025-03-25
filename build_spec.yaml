@@ -110,14 +110,9 @@ steps:
         runAs: root
   - type: Command
     timeoutInSeconds: 1200
-    name: "LS"
-    command: |
-      ls
-  - type: Command
-    timeoutInSeconds: 1200
     name: "Helm Build"
     command: |
-      cd ${OCI_WORKSPACE_DIR}/MS-Mocks/chart-ms-mocks
+      cd chart-ms-mocks
       export BUILDRUN_HASH=${BUILDRUN_HASH}
       helm package .
       helm registry login ${HELM_REPO} -u ${HELM_REPO_USER} -p ${USER_AUTH_TOKEN}
