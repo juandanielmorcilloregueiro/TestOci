@@ -113,10 +113,16 @@ steps:
     timeoutInSeconds: 1200
     name: "Helm Build"
     command: |
-      cd ${OCI_WORKSPACE_DIR}/MS-Mocks
-      mkdir chart
-      cp Chart.yaml values.yaml chart
-      cd chart     
+      cd ${OCI_WORKSPACE_DIR}/MS-Mocks/chart-ms-mocks
+      export BUILDRUN_HASH=${BUILDRUN_HASH}
+      originalChartfile="Chart.yaml"
+      tmpChartfile=$(mktemp)
+      cp --attributes-only --preserve $originalChartfile $tmpChartfile
+      cat $originalChartfile | envsubst > $tmpChartfile && mv $tmpChartfile $originalChartfile
+      originalValuesFile="values.yaml"
+      tmpValuesfile=$(mktemp)
+      cp --attributes-only --preserve $originalValuesFile $tmpValuesfile
+      cat $originalValuesFile | envsubst > $tmpValuesfile && mv $tmpValuesfile $originalValuesFile         
       helm package .
       helm registry login ${HELM_REPO} -u ${HELM_REPO_USER} -p ${USER_AUTH_TOKEN}
       helm push *.tgz ${HELM_REPO_URL}
