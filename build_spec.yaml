@@ -108,7 +108,11 @@ steps:
           echo "Failure successfully handled"
         timeoutInSeconds: 400
         runAs: root
-
+  - type: Command
+    timeoutInSeconds: 1200
+    name: "LS"
+    command: |
+      ls
   - type: Command
     timeoutInSeconds: 1200
     name: "Helm Build"
