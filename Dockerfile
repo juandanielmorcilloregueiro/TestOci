@@ -1,6 +1,7 @@
 # syntax=docker/dockerfile:1
 FROM quay.io/centos/centos:stream9
-RUN yum -y update
+RUN dnf update
+RUN dnf install java-latest-openjdk-devel
 
 COPY ./target/MS-Mocks-1.0-SNAPSHOT.jar /home
 RUN mkdir /src
